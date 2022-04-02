@@ -1,4 +1,4 @@
--                   👋 Hi, I’m @ronifher 
+- 👋 I'm @ronifher
 - 👀 I’m interested in  se tornar um desenvolvedor
 - 🌱 I’m currently learning desenvolver e programar
 - 💞️ I’m looking to collaborate  com muita dedicação à empresa que contratar-me
